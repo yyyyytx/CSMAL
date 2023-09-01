@@ -1,5 +1,5 @@
-# Center Separated Metric-Based Active Learning
-The official code of paper ``Center Separated Metric-Based Active Learning"
+# Boosting Active Learning via Re-aligned Feature Space
+The official code of paper ``Boosting Active Learning via Re-aligned Feature Space"
 
 ## run
 python cifar/cifar10_metric_coreset.py  
